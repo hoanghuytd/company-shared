@@ -22,7 +22,7 @@
             "database"
         ],
         "psr-4": {
-            "Share\\": "share/Models/"
+            "App\\": "share/Models/"
         }
     },
     "autoload-dev": {
