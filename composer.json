@@ -1,5 +1,5 @@
 {
-    "name": "company-shared",
+    "name": "hoanghuytd-shared",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
@@ -9,7 +9,7 @@
         "laravel/framework": "5.2.*",
         "illuminate/html": "^5.0",
         "guzzlehttp/guzzle": "~6.0",
-        "hoanghuytd/company-shared": "master"
+        "hoanghuytd/company-shared": "dev-master"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
